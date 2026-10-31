@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="40%" align="center" valign="middle">
-      <img src="assets/images/flors.png" alt="Flores" width="100%">
+      <img src="assets/images/flors-fluo.png" alt="Flores" width="100%">
     </td>
     <td width="60%" valign="middle">
       <h3>
