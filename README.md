@@ -4,6 +4,7 @@
       <img src="assets/images/flors-fluo.png" alt="Flores" width="100%">
     </td>
     <td width="60%" valign="middle">
+      <dl><dd>
       <h3>
         <img src="assets/images/heading.svg" alt="Driven by curiosity." width="180">
       </h3>
@@ -18,6 +19,7 @@
         <img src="assets/icons/codex.svg" alt="Codex" width="36" height="36">&nbsp;
         <img src="assets/icons/claude-code.svg" alt="Claude Code" width="36" height="36">
       </p>
+      </dd></dl>
     </td>
   </tr>
 </table>
