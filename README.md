@@ -8,7 +8,7 @@
       <h3>
         <img src="assets/images/heading.svg" alt="Driven by curiosity." width="180">
       </h3>
-      <p>Looking for new ways to explore creativity through code.<br>Technologies I use:</p>
+      <p>Exploring new ways to express creativity through code.<br>Technologies I use:</p>
       <p>
         <img src="assets/icons/javascript.svg" alt="JavaScript" width="36" height="36">&nbsp;
         <img src="assets/icons/typescript.svg" alt="TypeScript" width="36" height="36">&nbsp;
