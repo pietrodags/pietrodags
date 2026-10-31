@@ -6,7 +6,7 @@
     <td width="60%" valign="middle">
       <dl><dd>
       <h3>
-        <img src="" alt="Driven by curiosity." width="180">
+        <img src="assets/images/heading.svg" alt="Driven by curiosity." width="180">
       </h3>
       <p>Exploring new ways to express creativity through code.<br>Technologies I use:</p>
       <p>
