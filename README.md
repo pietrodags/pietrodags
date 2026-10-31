@@ -17,7 +17,7 @@
         <img src="assets/icons/tailwindcss.svg" alt="Tailwind CSS" width="36" height="36">&nbsp;
         <img src="assets/icons/codex.svg" alt="Codex" width="36" height="36">&nbsp;
         <img src="assets/icons/claude-code.svg" alt="Claude Code" width="36" height="36">
-        </p>
+      </p>
     </td>
   </tr>
 </table>
