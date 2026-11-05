@@ -1,9 +1,9 @@
 <table>
   <tr>
-    <td width="25%" align="center" valign="middle">
+    <td width="30%" align="center" valign="middle">
       <img src="assets/images/flors.webp" alt="Flowers" width="100%">
     </td>
-    <td width="75%" valign="middle">
+    <td width="70%" valign="middle">
       <dl><dd>
       <h3>
         <img src="assets/images/heading.svg" alt="Driven by pollen" width="176">
