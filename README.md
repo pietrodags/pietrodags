@@ -2,7 +2,7 @@
   <tr>
     <td width="30%" align="center" valign="middle">
       <picture>
-        <source media="(max-width: 962.99px)" srcset="assets/images/flors-crop.svg">
+        <source media="(max-width: 962.98px)" srcset="assets/images/flors-crop.svg">
         <img src="assets/images/flors.webp" alt="Flowers" width="100%">
       </picture>
     </td>
