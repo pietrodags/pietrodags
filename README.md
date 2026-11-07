@@ -1,7 +1,10 @@
 <table>
   <tr>
     <td width="30%" align="center" valign="middle">
-      <img src="assets/images/flors.webp" alt="Flowers" width="100%">
+      <picture>
+        <source media="(max-width: 669.98px)" srcset="assets/images/flors-crop.svg">
+        <img src="assets/images/flors.webp" alt="Flowers" width="100%">
+      </picture>
     </td>
     <td width="70%" valign="middle">
       <dl><dd>
