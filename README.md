@@ -9,7 +9,9 @@
     <td width="70%" valign="middle">
       <dl><dd>
       <h3>
-        <img src="assets/images/heading.svg" alt="Driven by pollen" width="176">
+        <picture>
+          <img src="assets/images/heading.svg" alt="Driven by pollen" width="176">
+        </picture>
       </h3>
       <p>Exploring new ways to express creativity through code.<br>Technologies I use:</p>
       <p>
